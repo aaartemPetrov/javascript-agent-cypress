@@ -3,3 +3,4 @@ log/
 cypress/
 cypress.json
 javascript-agent-cypress.code-workspace
+.DS_Store
